@@ -1,6 +1,7 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: MAGENDRA SANJAY S </h3>
 <h3>Register Number: 212224040179</h3>
+<h3>Date: 15.10.2026</h3>
 
 
 <h3>AIM:</h3>
